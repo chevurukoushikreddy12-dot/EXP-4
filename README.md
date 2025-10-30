@@ -34,18 +34,62 @@ PROCEDURE:
 3.   Connect the capacitor filter and observe the waveforms. Note down and calculate ripple factor, rectifier efficiency and %regulation using the expressions. Repeat for different capacitor values.
 4.   Repeat the above steps for full wave and bridge rectifiers.
 
-CIRCUIT DIAGRAMS
+## CIRCUIT DIAGRAMS
 
-Half wave rectifier with filter:
+## Half wave rectifier with filter:
 
-Bridge rectifier with filter:
 
-TABULAR COLUMN
-Rectifier without filter
-TABULAR COLUMN
-Rectifier with filter
+![WhatsApp Image 2025-10-30 at 20 57 01_6ace3e20](https://github.com/user-attachments/assets/5dce8982-4862-47ce-aa05-7261c311a939)
 
-WAVEFORM:
+
+## Half wave rectifier without filter:
+
+
+![WhatsApp Image 2025-10-30 at 20 56 14_37789cf3](https://github.com/user-attachments/assets/5c2be10f-6e22-4bcd-8adc-64c64b9046e9)
+
+
+## Full wave rectifier with filter:
+
+
+![WhatsApp Image 2025-10-30 at 20 59 29_c66b0b1e](https://github.com/user-attachments/assets/6c3e9ead-0a2a-47e6-bec2-e0d98916c2da)
+
+
+
+
+## Full wave rectifier without  filter:
+
+![WhatsApp Image 2025-10-30 at 20 59 04_116907e6](https://github.com/user-attachments/assets/3e1c1531-b456-43b8-94ff-7706a2ffd9d9)
+
+
+## TABULAR COLUMN
+
+## half wave Rectifier:
+
+
+![WhatsApp Image 2025-10-30 at 20 57 52_46290ac7](https://github.com/user-attachments/assets/84ee3374-fa54-47cc-82f3-2f9d8bacc418)
+
+
+## TABULAR COLUMN
+
+## Full wave Rectifier:
+
+
+![WhatsApp Image 2025-10-30 at 20 59 51_409a6639](https://github.com/user-attachments/assets/c9d32e41-c698-451d-b48f-ce6174d6d65b)
+
+## WAVEFORM:
+
+
+## Half wave rectifier :
+
+
+![WhatsApp Image 2025-10-30 at 20 58 16_927d9c4d](https://github.com/user-attachments/assets/bdf06723-a41e-41ec-84f1-6b76236971e6)
+
+
+
+## full wave Rectifier:
+
+
+![WhatsApp Image 2025-10-30 at 21 00 16_0ed83f3f](https://github.com/user-attachments/assets/654b2c06-8286-458b-99e7-7ab57935a833)
 
 
 RESULT:
